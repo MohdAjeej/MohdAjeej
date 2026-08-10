@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭Currently building AI-powered Study Abroad Decision Platform<br>🌍 Based in Greater Noida, India<br>💬 Ask me about Next.js, TypeScript, Node.js, Python, AI integrations<br>📫 Reach me at azizpathan882002<br>⚡ Fun fact: I ship fast and squash commits faster
+ 🔭Currently building AI-powered Study Abroad Decision Platform<br>🌍 Based in Greater Noida, India<br>💬 Ask me about Next.js, TypeScript, Node.js, Python, AI integrations<br>📫 Reach me at azizpathan882002@gmail.com<br>⚡ Fun fact: I ship fast and squash commits faster
 
 
 ## 🌐 Socials:
